@@ -1,0 +1,27 @@
+{
+  "name": "even-number-generator",
+  "version": "1.0.1",
+  "description": "A utility to generate even numbers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdsgfdh/even-number-generator.git"
+  },
+  "keywords": [
+    "even-number-generator"
+  ],
+  "author": "fdsgfdh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdsgfdh/even-number-generator/issues"
+  },
+  "homepage": "https://github.com/fdsgfdh/even-number-generator#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "desel-prime": "1.0.1"
+  }
+}
